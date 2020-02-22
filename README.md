@@ -8,7 +8,6 @@
 `TODO://` This flash card app asks the user a question. Then hides the question and displays the answer, after the user taps the question. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 https://i.imgur.com/6PZ4PTp.gif
 
