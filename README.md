@@ -5,7 +5,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` This flash card app asks the user a question. Then hides the question and displays the answer, after the user taps the question. 
+`TODO://` This flash card app asks the user a question. Then hides the question and displays the answer, after the user taps the question. This app allows the user to move between the question and the answer.
 
 ### App Walk-though
 
